@@ -4,6 +4,10 @@
 
 　日本語フォルマント合成。
 
+以下が動作するか試した。
+
+* https://zenn.dev/mogesystem/scraps/31341a206bb7a7
+
 <!--
 
 # デモ

@@ -4,6 +4,8 @@
 
 Japanese formant synthesis.
 
+* https://zenn.dev/mogesystem/scraps/31341a206bb7a7
+
 <!--
 
 # DEMO
